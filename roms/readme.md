@@ -1,4 +1,5 @@
 # Xplorer64 - Known EEPROM Dumps
 
 
-https://github.com/danhans42/xplorer64/tree/main/roms/xp_1067g.rom   Version 1.067 (German) - Only known dump currently.
+xp_1067g.rom -  Version 1.067 (German) MD5: 9137129a586e1bcab6ae81bac6b01275
+
