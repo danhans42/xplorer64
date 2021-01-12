@@ -6,9 +6,9 @@ After obtaining one of these cartridges, and being a massive fan of its PSX coun
 
 Looking around on the internet there is very little information on them at all.
 
-Ive started to gather on the cartridge itself, pinouts, tool and other information. Much of this information is either missing, never been documented publically or currently hosted on old websites and forums to see what capabilities it has and what it is capable of.
+Ive started to gather information on the cartridge itself, pinouts, tools and anything else I can lay my hands on. Much of this information is either missing, never been documented publically or currently hosted on old websites and forums and I wish to preserve this for future generations of N64 fans.
 
-Once sufficient documentation and hardware is working, I will then endeavour to recreate this old hardware using modern parts that are in production.
+Once I have got my head around exactly what the CPLD is doing, I will then endeavour to recreate this old hardware using modern parts that are in production.
 
 What you will find here :-
 
