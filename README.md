@@ -57,5 +57,8 @@ I have started writing the code for the flash update, I just need to socket the 
 
 ## Thanks & Shouts
 
-Tim Schuerewegen - for xflash/xkiller and being super helpful with information that saved me a hell of a lot of time
-N64brew Discord
+Tim Schuerewegen - for xflash/xkiller and being super helpful with information that saved me a hell of a lot of time.
+Martin Korth/noca$h - for the psx-spex documents - especially the xplorer sections
+Nicolas Noble - for bringing psx-spex to github and converting to MD
+
+Shoutouts to N64brew & #PSXDev Discord
