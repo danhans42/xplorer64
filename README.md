@@ -10,11 +10,13 @@ Ive started to gather on the cartridge itself, pinouts, tool and other informati
 
 What you will find here :-
 
-\3rdparty - contains third party applications
-\images - contains images of hardware.
-\roms - contains dumped Xplorer64 firmware images
-\updates - contains released updates from Blaze/FCD - packaged as they were
-\xp64 - contains xp64 - RPi Xplorer64 comms utility
+Folder    |Notes 
+----------|--------------------------------------
+3rdparty | third party xplorer64 applications
+images | images of hardware.
+roms | dumped Xplorer64 firmware images
+updates | released updates from Blaze/FCD - packaged as they were
+xp64 |  xp64 - RPi Xplorer64 comms utility
 
 ## Known PCB Versions
 
