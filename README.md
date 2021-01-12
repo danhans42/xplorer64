@@ -50,8 +50,12 @@ Xplorer low level protocol information can also be found on this same page.
 
 I am writing a utility, xp64 that replaces the need to use xkiller or the original DOS update utility.
 
-It uses a RaspberryPi single board computer to communicate with the Xplorer64 using the RaspberryPi GPIO inputs/outputs.
+It uses a RaspberryPi single board computer to communicate with the Xplorer64 using the GPIO header.
 That will probably be limited to flash updating and nothing else.. so at least you should be able to flash a rom with a new cheatlist if needed.
 
 I have started writing the code for the flash update, I just need to socket the EEPROMs on my cart before testing it.
 
+## Thanks & Shouts
+
+Tim Schuerewegen - for xflash/xkiller and being super helpful with information that saved me a hell of a lot of time
+N64brew Discord
