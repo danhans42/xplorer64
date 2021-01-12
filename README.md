@@ -8,6 +8,14 @@ Looking around on the internet there is very little information on them at all.
 
 Ive started to gather on the cartridge itself, pinouts, tool and other information. Much of this information is either missing, never been documented publically or currently hosted on old websites and forums to see what capabilities it has and what it is capable of.
 
+What you will find here :-
+
+\3rdparty - contains third party applications
+\images - contains images of hardware.
+\roms - contains dumped Xplorer64 firmware images
+\updates - contains released updates from Blaze/FCD - packaged as they were
+\xp64 - contains xp64 - RPi Xplorer64 comms utility
+
 ## Known PCB Versions
 
 Version     |Info                            | Notes
