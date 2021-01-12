@@ -33,10 +33,10 @@ Version|Dumped|Commands                    |Notes
 1.067G | Yes  | Unknown                    | Update seems to have originated from the German Blaze website. 
 1.067E | No   | 0x55, 0x57, 0x58           | Found on my cart - green label     
 
-### Note on Commands
+### Commands
 
 This column shows the commands that seem to be working via the command handler. The commands seem to follow the same format as used by the PSX versions of the cart (makes sense). For more infomation on the commands see here https://github.com/psx-spx/psx-spx.github.io/blob/master/cheatdevices.md#xplorer-parallel-port-commands-from-pc-side
-
+Xplorer low level protocol information can also be found on this same page.
 
 ## xp64 - Flash/Update Utility for RaspberryPi
 
