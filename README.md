@@ -25,6 +25,7 @@ xp64 |  xp64 - RPi Xplorer64 comms utility
 Version     |Info                            | Notes
 ------------|--------------------------------|------------
 FCD-0003.1  |PAL English Model (Green Label) | ATF1508AS CPLD, AT90S1200A MCU, 2 x SST 29LE010 EEPROM
+FCD-0003.1S |PAL English Model (Red Label)   | ATF1508AS CPLD, AT90S1200A MCU, 2 x SST 29EE010 EEPROM
 
 ## Known Software Versions
 
