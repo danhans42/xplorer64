@@ -44,7 +44,7 @@ Version|Dumped|Commands                    |Notes                               
 
 This column shows the commands that seem to be working via the command handler. The commands seem to follow the same format as used by the PSX versions of the cart (makes sense).
 
-0x55 is Upload Firmware & Flash, 0x57 is Status (Menu/Game etc) and 0x58 seems to be upload bin & flash but this needs checking.
+0x55 is Upload Firmware & Flash, 0x57 is Status (v1.000 & v1.067 return 0x36) and 0x58 seems to be upload bin to addr & call addr (SetMem&Exec) but this needs checking.
 
 For more infomation on the commands see here https://github.com/psx-spx/psx-spx.github.io/blob/master/cheatdevices.md#xplorer-parallel-port-commands-from-pc-side
 Xplorer low level protocol information can also be found on this same page.
