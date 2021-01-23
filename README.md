@@ -31,10 +31,12 @@ FCD-0003.1S |PAL English Model (Red Label)   | ATF1508AS CPLD, AT90S1200A MCU, 2
 
 This is where I need YOUR HELP. If you have one of these carts and use it, can you check the software version (press X in the menu). If it differs in any way to the below please let me know and I will add the detail here. If you have any beta/alpha/test versions of this software - please get in touch, youd make a grown man very very happy :)
 
+I have 4 carts - 3x1.067E, 1x1.00
+
 Version|Dumped|Commands                    |Notes                                        |MD5/Notes2
 -------|------|----------------------------|---------------------------------------------|----------------------
-1.000  | No   | Unknown                    | Early version discussed in a forum post     |Undumped ( see https://assemblergames.org/viewtopic.php?t=60584 )
-1.066  | No   | Unknown                    | Discussed in a forum post                   |Undumped ( see https://assemblergames.org/viewtopic.php?t=60584 )
+1.000  | No   | 0x55, 0x57, 0x58           | Found on a cart - green label               |Undumped 
+1.066  | No   | Unknown                    | Discussed in an Assemblergames forum post   |Undumped
 1.067G | Yes  | Unknown                    | Version found in GoodN64 Set /Nesworld etc  |9137129a586e1bcab6ae81bac6b01275
 1.067E | No   | 0x55, 0x57, 0x58           | Found on my cart - green label              |Undumped
 
