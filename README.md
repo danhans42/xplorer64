@@ -40,6 +40,8 @@ Version|Dumped|Commands                    |Notes                               
 1.067G | Yes  | Unknown                    | Version found in GoodN64 Set /Nesworld etc  |9137129a586e1bcab6ae81bac6b01275
 1.067E | No   | 0x55, 0x57, 0x58           | Found on my cart - green label              |Undumped
 
+Please note : The dump of 1.067G does not appear to be a valid dump as it lacks the usual N64 cart header and doesnt look complete.
+
 ### Commands
 
 This column shows the commands that seem to be working via the command handler. The commands seem to follow the same format as used by the PSX versions of the cart (makes sense).
