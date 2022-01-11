@@ -66,4 +66,6 @@ Tim Schuerewegen - for xflash/xkiller and being super helpful with information t
 Martin Korth/noca$h - for the psx-spex documents - especially the xplorer sections
 Nicolas Noble - for bringing psx-spex to github and converting to MD
 
+Last and by no means least, Squaresoft74 for the very kind donation of a Xplorer64 - many thanks and very much appreciated!
+
 Shoutouts to N64brew & #PSXDev Discord
