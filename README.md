@@ -8,7 +8,8 @@ Looking around on the internet there is very little information on them at all.
 
 Ive started to gather information on the cartridge itself, pinouts, tools and anything else I can lay my hands on. Much of this information is either missing, never been documented publically or currently hosted on old websites and forums and I wish to preserve this for future generations of N64 fans.
 
-Once I have got my head around exactly what the CPLD is doing, I will then endeavour to recreate this old hardware using modern parts that are in production.
+Update Jan 2024 - As you can see from the comments in issues - Modman has made major progress in reverse engineering the obfuscation and also some of the IO ports as well as adding support to the Sanni cart reader. There will be a massive update to this repository shorly. However for more info on the obfuscation etc see here https://github.com/RWeick/FCD-0003.1S-Xplorer64/tree/main
+
 
 What you will find here :-
 
@@ -37,10 +38,8 @@ Version|Dumped|Commands                    |Notes                               
 -------|------|----------------------------|---------------------------------------------|----------------------
 1.000  | No   | 0x55, 0x57, 0x58           | Found on a cart - green label               |Undumped 
 1.066  | No   | Unknown                    | Discussed in an Assemblergames forum post   |Undumped
-1.067G | Yes  | Unknown                    | Version found in GoodN64 Set /Nesworld etc  |9137129a586e1bcab6ae81bac6b01275
-1.067E | No   | 0x55, 0x57, 0x58           | Found on my cart - green label              |Undumped
-
-Please note : The dump of 1.067G does not appear to be a valid dump as it lacks the usual N64 cart header and doesnt look complete.
+1.067G | Yes  | 0x55, 0x57, 0x58           | Version found in GoodN64 Set /Nesworld etc  |9137129a586e1bcab6ae81bac6b01275
+1.067E | No   | 0x55, 0x57, 0x58           | Found on my cart - green label              |see /roms
 
 ### Commands
 
@@ -62,6 +61,7 @@ I have started writing the code for the flash update, I just need to socket the 
 
 ## Thanks & Shouts
 
+Modman/RWeick - amazing work on xplorer64 reverse engineering - 
 Tim Schuerewegen - for xflash/xkiller and being super helpful with information that saved me a hell of a lot of time.
 Martin Korth/noca$h - for the psx-spex documents - especially the xplorer sections
 Nicolas Noble - for bringing psx-spex to github and converting to MD
