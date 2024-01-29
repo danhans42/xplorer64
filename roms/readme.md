@@ -4,6 +4,7 @@
 | ---------------------|---------|-------|----------|------------------------------|----------------------------------|
 | xp_1067e.rom         | 1.067E  | 2510  | English  | Tue Nov 23 18:13:18 GMT 1999 | 9c02797d59852063cab3d5824e86f7f5 |
 | xp_1067g.rom         | 1.067G  | 1930  | German   | Wed Nov 24 15:25:52 GMT 1999 | 9137129a586e1bcab6ae81bac6b01275 |
+| Xplorer64 1.000E 1773.bin | 1.000E  | 1773  | English  | Fri May 7 16:34:19 BST 1999  | 7445bedee96c89a42648e5c0cd512368 |
 
 
 A more comprehensive collection can be found here :-
